@@ -12,3 +12,5 @@ Background: "The universe" has layered abstractions (rules of physics, entropy, 
 
 Quantum-like state collapsor: Alignment of observerers (humans with their internals) in perceiving and understanding reality closely linked to opening new layers. Complementary alignment
 
+//TODO: Stateengines R&D using linked Casio graphing calculators and linux-/android cable-box DVRTV boxes. Find outcomes through mathematical functions that iterate with sensors on a simple cellculture set up with fungal and anti-fungal substances- measure complexityfactors against viral DNA modifications and synthesis to stimulate emergence aimed at cooperation rather than anti
+
