@@ -8,4 +8,7 @@ In doing this the layering of realities becomes decodable through participatory 
 Reality as writable: Our role isnt passive (ref quantum observer phenomena). 
 Pathways to intervention: ????? life-as-information-trnsference ??? //TODO: apply findings from omniversal deepspace comsys
 
+Background: "The universe" has layered abstractions (rules of physics, entropy, causality, locality etc). Products of these abstracted constraints point towards possibilities of higher-order emergence (like hacking reality and getting to the next layer of reality).
+
+Quantum-like state collapsor: Alignment of observerers (humans with their internals) in perceiving and understanding reality closely linked to opening new layers. Complementary alignment
 
